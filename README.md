@@ -4,11 +4,11 @@ The OP-Booking-System is an exclusive healthcare website developed for a single 
 *********************************************
 Software Specifications:
 
-Front end        : HTML, JavaScript, SCSS
-Development tool : PHP
-Database         : My SQL
-Web server       : WAMP server
-Operating System : Windows 11
+🔘Front end        : HTML, JavaScript, SCSS
+🔘Development tool : PHP
+🔘Database         : My SQL
+🔘Web server       : WAMP server
+🔘Operating System : Windows 11
 
 
 STAKE HOLDERS
